@@ -140,7 +140,7 @@ streamlit run app.py
 ```
 
 ---
-
+## Deployment is on : https://ds-app-app-tjym3jnnzwdvq5ud6ap5ug.streamlit.app/
 ## 📈 Model Performance
 
 * The model evaluates prediction accuracy using RMSE.
